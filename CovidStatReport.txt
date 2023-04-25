@@ -1,0 +1,10 @@
+﻿Hello,
+
+Below is the Coronavirus Status Report for the country {0}.
+
+Total Cases: {1}
+Total Deaths: {2}
+Total Recovered: {3}
+
+Regards,
+Covid Stat Alert Robot
